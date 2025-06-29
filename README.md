@@ -1,2 +1,5 @@
-# flask_labs
-A collection of small, focused Flask projects and experiments. This repo serves as a sandbox for learning, prototyping, and exploring Flask-based APIs, authentication, database integration, and more.
+#  Mini Flask Projects & API Experiments
+
+A curated collection of small, self-contained Flask projects and API experiments.
+
+This repository serves as a sandbox for learning, building, and rapidly prototyping Flask-based applications — covering authentication, RESTful APIs, JWT, database integrations, and more. It's ideal for quick iterations, exploring ideas, and developing modular microservices.
